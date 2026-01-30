@@ -1,0 +1,1 @@
+Forecast electricity demand at +15m, +1h, +24h with uncertainty bands, and detect anomalies (data issues + unusual demand).
