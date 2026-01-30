@@ -160,23 +160,10 @@ streamlit run app/dashboard.py
 
 ---
 
-## 🌐 Live Application
-
-The project is fully deployed and accessible publicly:
-
-👉 https://electricity-demand-forecasting-anomaly-monitoring-sms6yh6s2akc.streamlit.app/
-
-Experience the system in action — explore historical forecasts, visualize anomalies, and generate real-time electricity demand predictions through the interactive dashboard.
-
----
-
 ## 👤 Author
 
 **Amit Meena**  
 B.Sc. Computer Science  
 
 If you found this project interesting or would like to discuss machine learning, forecasting systems, or applied AI, feel free to connect!
-
-
-## 🧠 System Architecture
 
