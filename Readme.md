@@ -1,6 +1,6 @@
 # ⚡ Electricity Demand Forecasting System
 
-🚀 **Live App:** https://YOUR-STREAMLIT-LINK.streamlit.app  
+🚀 **Live App:** https://electricity-demand-forecasting-anomaly-monitoring-sms6yh6s2akc.streamlit.app/
 
 ---
 
